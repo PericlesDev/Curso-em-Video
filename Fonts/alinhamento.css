@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: right;
+}
+p { /* "text-indent" formata o meu texto para um verdadeiro paragráfo */
+    text-align: justify;
+    text-indent: 30px;
+}
